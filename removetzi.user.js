@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        removetzi
+// @name        removeTZI
 // @include     http://taz.de/*
 // @include     https://taz.de/*
 // @include     http://www.taz.de/*
